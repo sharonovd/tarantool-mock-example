@@ -10,6 +10,7 @@ dependencies = {
 	'checks == 3.0.1-1',
     'cartridge == 2.2.0-1',
     'metrics == 0.3.0-1',
+    'luatest'
 }
 build = {
 	type = 'none';
